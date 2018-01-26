@@ -1,3 +1,4 @@
-insert into user (id, username, name, age, balance) values (1, 'account1', '张三', 20, 100.00);
-insert into user (id, username, name, age, balance) values (2, 'account2', '李四', 28, 180.00);
-insert into user (id, username, name, age, balance) values (3, 'account3', '王五', 32, 280.00);
+insert into user (id, username, age) values (1,'Tom',12);
+insert into user (id, username, age) values (2,'Jerry', 23);
+insert into user (id, username, age) values (3,'Reno', 44);
+insert into user (id, username, age) values (4,'Josh', 55);
